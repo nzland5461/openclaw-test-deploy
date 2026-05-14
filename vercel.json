@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "openclaw-test-deploy",
+  "builds": [
+    {
+      "src": "index.html",
+      "use": "@vercel/static"
+    }
+  ]
+}
